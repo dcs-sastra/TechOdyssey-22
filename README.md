@@ -1,7 +1,12 @@
-# TechOdyssey-22
+![logo](https://user-images.githubusercontent.com/75413685/200554880-ccdfca4a-c816-45ee-91b0-0c5d5cd4432b.jpeg)
+
+<br></br>
+
+> Navigating through this repository
 
 There will be a branch for each week and the repository has different folders for each domain. Within each folder there will be a folder available for each week within which the details regarding the task for that week will be given. Check the following video on how to download a file from github.
 <br></br>
+
 > How to download a file?
 
 https://user-images.githubusercontent.com/75413685/200552726-69ec21e4-a207-4ea0-9725-6e14c7df67a9.mp4
